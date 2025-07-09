@@ -1,4 +1,25 @@
-### RFP 분석 결과 기반 KT DS 내부 인력 추천 Assistant
+##################################################
+###### Project Info
+### Project Development Date
+#   -> First Release : 2025.06.23
+#   -> Final Release : 2025.07.10
+# 
+### Project Author
+#   -> KT DS > 기술혁신단 > AI Tech담당 > MS AI Tech팀 > 박호영 선임
+# 
+### Project Title
+# RFP 분석 결과 기반 KT DS 내부 인력 추천 Assistant
+# 
+### Project Description
+# Azure OpenAI 활용
+#   -> RFP 분석 RAG Assistant
+#       -> 사용자가 업로드한 RFP 문서를 분석하여 핵심 내용 추출
+#       -> Assistant Vector 저장소에 문서 업로드 후 분석 및 추출
+#   -> 사무분장 분석 RAG Assistant
+#       -> 분석된 RFP 핵심 내용 및 사용자 추가 요청사항 기반 프로젝트 수행 가능한 KT DS 인력 추천
+#       -> Assistant Vector 저장소에 KT DS 사무분장 md 업로드 및 인덱싱
+# 
+##################################################
 
 import os
 import time
