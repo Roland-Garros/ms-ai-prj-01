@@ -35,3 +35,6 @@
 - 직원 사무분장 최신 데이터 획득 Pipeline 협의 필요 (최신 데이터 획득 필수)
 - 사무분장 데이터 포맷 개선 (RAG Assistant 답변 품질 지속 개선 필요)
 - 최신 사무분장 Raw 데이터 Knowledge 자동 포맷팅 방법 (RPA 등 자동화 Tool을 통한 Knowledge 전처리 필요)
+
+## 통합 대상 서비스 (예상)
+- KT DS Works AI의 AI Makers로 배포
