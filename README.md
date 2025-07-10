@@ -1,9 +1,8 @@
-# ms-ai-prj-01
-## 서비스 링크
-- https://ktds-user03-web-app-09.azurewebsites.net/
-
 ## 프로젝트 명
 - **Azure OpenAI 기반 RFP 분석 및 수행 인력 추천 Assistant**
+
+## 서비스 링크
+- https://ktds-user03-web-app-09.azurewebsites.net/
 
 ## 개요 및 목적
 - Azure OpenAI를 활용하여 **RFP 분석 및 사내 업무 담당자 추천**을 수행하는 AI Assistant
