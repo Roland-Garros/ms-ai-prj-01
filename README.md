@@ -1,4 +1,5 @@
-# Azure OpenAI 기반 RFP 분석 및 수행 인력 추천 Assistant
+## 프로젝트 명
+- **Azure OpenAI 기반 RFP 분석 및 수행 인력 추천 Assistant**
 
 ## 서비스 링크
 - https://ktds-user03-web-app-09.azurewebsites.net/
