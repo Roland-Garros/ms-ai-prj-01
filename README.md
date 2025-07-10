@@ -37,4 +37,5 @@
 - 최신 사무분장 Raw 데이터 Knowledge 자동 포맷팅 방법 (RPA 등 자동화 Tool을 통한 Knowledge 전처리 필요)
 
 ## 통합 대상 서비스 (예상)
+- Microsoft Copilot Studio Agent로 Teams 배포
 - KT DS Works AI의 AI Makers로 배포
